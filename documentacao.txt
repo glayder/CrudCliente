@@ -1,0 +1,11 @@
+Foi utilizado as ferramentas:
+HTML5,
+CSS3,
+BOOTSTRAP 3,
+PHOTOSHOP CS6,
+SUBLIME TEXT 3
+WAMP SERVER VERSION 2.5.
+
+Referências: Google.com
+
+Desenvolvido por: Glayder Wanderson - (61) 8414-3408, glayder2015@gmail.com
